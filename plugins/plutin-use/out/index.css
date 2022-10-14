@@ -1,0 +1,18 @@
+/* vue-style:/Users/yishuai/develop/arch/esbuild-learn/plugins/plutin-use/hello.vue?type=style&index=0 */
+.container[data-v-6ccb2d2c] {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 200px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+.btn[data-v-6ccb2d2c] {
+  background: skyblue;
+  border-radius: 4px;
+  padding: 6px 12px;
+  border: none;
+  cursor: pointer;
+}

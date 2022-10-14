@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["app.jsx"],
+  "sourcesContent": ["import React from 'react'\nimport { renderToString } from 'react-dom/server'\n\nconst Greet = () => {\n  return <div>hello world</div>\n}\n\nconst renderStr = renderToString(<Greet />)\n\nconsole.log(renderStr)\n"],
+  "mappings": ";;;;;;;;;;;;;;;;;;;;AAAA,mBAAkB;AAClB,oBAA+B;AAE/B,IAAM,QAAQ,MAAM;AAClB,SAAO,6BAAAA,QAAA,cAAC,aAAI,aAAW;AACzB;AAEA,IAAM,gBAAY,8BAAe,6BAAAA,QAAA,cAAC,WAAM,CAAE;AAE1C,QAAQ,IAAI,SAAS;",
+  "names": ["React"]
+}
